@@ -1,0 +1,6 @@
+{
+  "name": "ALPHA — Global Financial Intelligence",
+  "description": "Global News. Financial Intelligence. Tomorrow’s Opportunities. Real-time market analytics, startup intelligence, and automated 07:00 AM Europe/Pristina daily briefings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
